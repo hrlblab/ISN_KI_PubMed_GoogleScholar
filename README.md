@@ -1,9 +1,9 @@
 # ISN_KI_PubMed_GoogleScholar
 
-## The code for generating Figure 1
+## Instruction of generating Figure 1
 
 
-## The code for generating Figure 2
+## Instruction of generating Figure 2
 
 
-## The code for generating Figure 3
+## Instruction of generating Figure 3
